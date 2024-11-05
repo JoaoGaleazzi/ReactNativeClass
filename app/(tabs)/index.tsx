@@ -31,7 +31,7 @@ export default function HomeScreen() {
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Step 2: Explore</ThemedText>
         <ThemedText>
-          Explore Saurons famous pits of despair
+          Explore Sauron's famous pits of despair
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
